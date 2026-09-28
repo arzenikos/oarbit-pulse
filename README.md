@@ -1,4 +1,8 @@
-# OarBit Pulse — Routine Management App
+<div align="center">
+    <img width="100" height="100" alt="oarbit-pulse-app-logo" src="https://github.com/user-attachments/assets/364ec939-327e-428c-baa0-18df7a680046" />
+
+
+# OarBit Pulse | Routine Management App
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -8,17 +12,55 @@
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-`OarBit Pulse` is a lightweight routine management app project, as part of the **BCDE213 - Interactive Media Development**. This app is designed to help users build consistent habits through structured tracking, intelligent reminders, and actionable insights. It focuses on behavior consistency, not just logging. It provides a minimal but purposeful system for:
 
-- Defining habits
-- Staying accountable with reminders
-- Understanding progress through reporting
+`OarBit Pulse` is a lightweight routine management app project, as part of the **BCDE213 - Interactive Media Development**. This app helps users build consistent habits through structured tracking, intelligent reminders, and actionable insights. It focuses on behavior consistency, not just logging. It provides a minimal but purposeful system for:
+
+`Defining habits` • `Staying accountable with reminders` • `Understanding progress through reporting`
 
 This project was developed as part of an Interactive Media school project, with emphasis on usability, modular design, and maintainable TypeScript architecture.
 
-[![📖 Wiki — Full Local Setup Guide](https://img.shields.io/badge/📖_Wiki-Full%20Local%20Setup%20Guide_⊿_-1a1a2e?style=for-the-badge&labelColor=16213e)](https://github.com/arseniedev/oarbit-pulse/wiki/Local-Installation-Guide)
-[![](https://img.shields.io/badge/🔗_Live_Demo-[Link%20To%20be%20added]-1a1a2e?style=for-the-badge&labelColor=16213e)](https://github.com/arseniedev/oarbit-pulse/wiki/Local-Installation-Guide)
+~✦~
+
+[![📖 Wiki — Full Local Setup Guide](https://img.shields.io/badge/📖_Wiki-Full%20Local%20Setup%20Guide_⊿_-1a1a2e?style=for-the-badge&labelColor=16213e)](https://github.com/arzenikos/oarbit-pulse/wiki/Local-Installation-Guide)
+[![](https://img.shields.io/badge/🔗_Live_Demo-[Link%20To%20be%20added]-1a1a2e?style=for-the-badge&labelColor=16213e)](https://github.com/arzenikos/oarbit-pulse/wiki/Local-Installation-Guide)
+
+</div>
+
 ---
+
+
+<table>
+  <tr align="center">
+    <td>Splashscreen</td>
+    <td>Habits</td>
+    <td>Loop</td>
+  </tr>
+  <tr align="center">
+    <td><img src="https://github.com/arseniedev/oarbit-pulse/blob/docs/assets/ui-info/01-splashscreen.png" alt="Splashscreen" width="420"/></td>
+    <td><img src="https://github.com/arseniedev/oarbit-pulse/blob/docs/assets/ui-info/02-habits-page.png" alt="Habits" width="420"/></td>
+    <td><img src="https://github.com/arseniedev/oarbit-pulse/blob/docs/assets/ui-info/03-loop-page.png" alt="Loop" width="420"/></td>
+  </tr>
+  <tr>
+  <tr align="center">
+    <td>Stats</td>
+    <td>Tutorial</td>
+    <td>Tutorial Tabs</td>
+  </tr>
+  <tr align="center">
+    <td>
+      <img src="https://github.com/arseniedev/oarbit-pulse/blob/docs/assets/ui-info/04-stats-page.png" alt="Stats" width="420"/>
+    </td>
+    <td>
+      <img src="https://github.com/arseniedev/oarbit-pulse/blob/docs/assets/ui-info/05-tutorial-page.png" alt="Tutorial" width="420"/>
+    </td>
+    <td>
+      <img src="https://github.com/arseniedev/oarbit-pulse/blob/docs/assets/ui-info/06-tutorial-tabs.jpeg" alt="Tutorial Tabs" width="420"/>
+    </td>
+  </tr>
+</table>
+
+[![📖 Wiki — Iterations](https://img.shields.io/badge/📖_Wiki-Iterations_⊿_-1a1a2e?style=for-the-badge&labelColor=16213e)](https://github.com/arzenikos/oarbit-pulse/wiki/Iterations) ![EBB5A0](https://img.shields.io/badge/EBB5A0-ebb5a0?style=for-the-badge&logoColor=170f4a) ![170F4A](https://img.shields.io/badge/170F4A-170f4a?style=for-the-badge&logoColor=ebb5a0)
+</br>
 
 ## Project Structure
 <!-- START_STRUCTURE -->
@@ -73,42 +115,6 @@ This project was developed as part of an Interactive Media school project, with 
 ```
 <!-- END_STRUCTURE -->
 
-
-## UI Snapshots
-
-[![📖 Wiki — Iterations](https://img.shields.io/badge/📖_Wiki-Iterations_⊿_-1a1a2e?style=for-the-badge&labelColor=16213e)](https://github.com/arseniedev/oarbit-pulse/wiki/Iterations)
-
-<table>
-  <tr align="center">
-    <td>Splashscreen</td>
-    <td>Habits</td>
-    <td>Loop</td>
-  </tr>
-  <tr align="center">
-    <td><img src="https://github.com/arseniedev/oarbit-pulse/blob/docs/assets/ui-info/01-splashscreen.png" alt="Splashscreen" width="420"/></td>
-    <td><img src="https://github.com/arseniedev/oarbit-pulse/blob/docs/assets/ui-info/02-habits-page.png" alt="Habits" width="420"/></td>
-    <td><img src="https://github.com/arseniedev/oarbit-pulse/blob/docs/assets/ui-info/03-loop-page.png" alt="Loop" width="420"/></td>
-  </tr>
-  <tr>
-  <tr align="center">
-    <td>Stats</td>
-    <td>Tutorial</td>
-    <td>Tutorial Tabs</td>
-  </tr>
-  <tr align="center">
-    <td>
-      <img src="https://github.com/arseniedev/oarbit-pulse/blob/docs/assets/ui-info/04-stats-page.png" alt="Stats" width="420"/>
-    </td>
-    <td>
-      <img src="https://github.com/arseniedev/oarbit-pulse/blob/docs/assets/ui-info/05-tutorial-page.png" alt="Tutorial" width="420"/>
-    </td>
-    <td>
-      <img src="https://github.com/arseniedev/oarbit-pulse/blob/docs/assets/ui-info/06-tutorial-tabs.jpeg" alt="Tutorial Tabs" width="420"/>
-    </td>
-  </tr>
-</table>
-
-</br>
 
 ## Core Features
 
