@@ -30,6 +30,13 @@ This project was developed as part of an Interactive Media school project, with 
 
 
 <table>
+  <tr>
+    <td colspan="3" align="center">
+      <img src="https://img.shields.io/badge/EBB5A0-EBB5A0?style=for-the-badge&logoColor=white" />
+      <img src="https://img.shields.io/badge/170F4A-170F4A?style=for-the-badge&logoColor=black" />
+      <img src="https://img.shields.io/badge/e2d8d7-e2d8d7?style=for-the-badge&logoColor=black" />
+    </td>
+  </tr> 
   <tr align="center">
     <td>Splashscreen</td>
     <td>Habits</td>
@@ -59,7 +66,8 @@ This project was developed as part of an Interactive Media school project, with 
   </tr>
 </table>
 
-[![📖 Wiki — Iterations](https://img.shields.io/badge/📖_Wiki-Iterations_⊿_-1a1a2e?style=for-the-badge&labelColor=16213e)](https://github.com/arzenikos/oarbit-pulse/wiki/Iterations) ![EBB5A0](https://img.shields.io/badge/EBB5A0-ebb5a0?style=for-the-badge&logoColor=170f4a) ![170F4A](https://img.shields.io/badge/170F4A-170f4a?style=for-the-badge&logoColor=ebb5a0)
+> 📖 [See Wiki ⊿](https://github.com/arzenikos/oarbit-pulse/wiki) for the iteration snapshots, full admin usage instructions, and data model details.
+
 </br>
 
 ## Project Structure
@@ -152,3 +160,7 @@ This project was developed as part of an Interactive Media school project, with 
 > ## **Disclaimer**
 >
 > All the content presented here is the result of my own individual work, and any resemblance to other works is purely coincidental. If you are a student, please refrain from using or copying this work in any way that violates the principles of academic honesty and integrity.
+
+---
+
+Created by Arsenie —— 2024
